@@ -6,9 +6,11 @@
 
 #IncludeRegexTransform: 
 
-/home/hfq/CLionProjects/algorithm_code/newcoder/Netease_XiaoyiDictionary.cpp
+/home/hfq/clion_ws/newcoder/Netease_NiuniuFindJob.cpp
 iostream
 -
-string
+vector
+-
+algorithm
 -
 

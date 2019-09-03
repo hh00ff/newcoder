@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/newcoder.dir/Netease_XiaoyiDictionary.cpp.o"
+  "CMakeFiles/newcoder.dir/Netease_NiuniuFindJob.cpp.o"
   "newcoder.pdb"
   "newcoder"
 )
