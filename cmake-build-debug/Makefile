@@ -123,32 +123,32 @@ newcoder/fast:
 	$(MAKE) -f CMakeFiles/newcoder.dir/build.make CMakeFiles/newcoder.dir/build
 .PHONY : newcoder/fast
 
-Netease_ExactDivisionbyThree.o: Netease_ExactDivisionbyThree.cpp.o
+Netease_PlaceLamps.o: Netease_PlaceLamps.cpp.o
 
-.PHONY : Netease_ExactDivisionbyThree.o
+.PHONY : Netease_PlaceLamps.o
 
 # target to build an object file
-Netease_ExactDivisionbyThree.cpp.o:
-	$(MAKE) -f CMakeFiles/newcoder.dir/build.make CMakeFiles/newcoder.dir/Netease_ExactDivisionbyThree.cpp.o
-.PHONY : Netease_ExactDivisionbyThree.cpp.o
+Netease_PlaceLamps.cpp.o:
+	$(MAKE) -f CMakeFiles/newcoder.dir/build.make CMakeFiles/newcoder.dir/Netease_PlaceLamps.cpp.o
+.PHONY : Netease_PlaceLamps.cpp.o
 
-Netease_ExactDivisionbyThree.i: Netease_ExactDivisionbyThree.cpp.i
+Netease_PlaceLamps.i: Netease_PlaceLamps.cpp.i
 
-.PHONY : Netease_ExactDivisionbyThree.i
+.PHONY : Netease_PlaceLamps.i
 
 # target to preprocess a source file
-Netease_ExactDivisionbyThree.cpp.i:
-	$(MAKE) -f CMakeFiles/newcoder.dir/build.make CMakeFiles/newcoder.dir/Netease_ExactDivisionbyThree.cpp.i
-.PHONY : Netease_ExactDivisionbyThree.cpp.i
+Netease_PlaceLamps.cpp.i:
+	$(MAKE) -f CMakeFiles/newcoder.dir/build.make CMakeFiles/newcoder.dir/Netease_PlaceLamps.cpp.i
+.PHONY : Netease_PlaceLamps.cpp.i
 
-Netease_ExactDivisionbyThree.s: Netease_ExactDivisionbyThree.cpp.s
+Netease_PlaceLamps.s: Netease_PlaceLamps.cpp.s
 
-.PHONY : Netease_ExactDivisionbyThree.s
+.PHONY : Netease_PlaceLamps.s
 
 # target to generate assembly for a file
-Netease_ExactDivisionbyThree.cpp.s:
-	$(MAKE) -f CMakeFiles/newcoder.dir/build.make CMakeFiles/newcoder.dir/Netease_ExactDivisionbyThree.cpp.s
-.PHONY : Netease_ExactDivisionbyThree.cpp.s
+Netease_PlaceLamps.cpp.s:
+	$(MAKE) -f CMakeFiles/newcoder.dir/build.make CMakeFiles/newcoder.dir/Netease_PlaceLamps.cpp.s
+.PHONY : Netease_PlaceLamps.cpp.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... newcoder"
-	@echo "... Netease_ExactDivisionbyThree.o"
-	@echo "... Netease_ExactDivisionbyThree.i"
-	@echo "... Netease_ExactDivisionbyThree.s"
+	@echo "... Netease_PlaceLamps.o"
+	@echo "... Netease_PlaceLamps.i"
+	@echo "... Netease_PlaceLamps.s"
 .PHONY : help
 
 

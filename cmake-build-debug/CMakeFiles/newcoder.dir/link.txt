@@ -1,1 +1,1 @@
-/usr/bin/c++  -g   CMakeFiles/newcoder.dir/Netease_ExactDivisionbyThree.cpp.o  -o newcoder 
+/usr/bin/c++  -g   CMakeFiles/newcoder.dir/Netease_PlaceLamps.cpp.o  -o newcoder 

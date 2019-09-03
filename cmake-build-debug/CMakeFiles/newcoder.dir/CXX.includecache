@@ -6,7 +6,11 @@
 
 #IncludeRegexTransform: 
 
-/home/hfq/clion_ws/newcoder/Netease_ExactDivisionbyThree.cpp
+/home/hfq/clion_ws/newcoder/Netease_PlaceLamps.cpp
 iostream
+-
+string
+-
+vector
 -
 
