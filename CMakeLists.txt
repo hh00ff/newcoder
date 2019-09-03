@@ -3,4 +3,4 @@ project(newcoder)
 
 set(CMAKE_CXX_STANDARD 11)
 
-add_executable(newcoder Netease_PlaceLamps.cpp)
+add_executable(newcoder Netease_LostNiuniu.cpp)
