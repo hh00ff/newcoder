@@ -6,11 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/home/hfq/clion_ws/newcoder/Netease_NiuniuFindJob.cpp
+/home/hfq/clion_ws/newcoder/Netease_ExactDivisionbyThree.cpp
 iostream
--
-vector
--
-algorithm
 -
 

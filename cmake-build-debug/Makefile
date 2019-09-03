@@ -123,32 +123,32 @@ newcoder/fast:
 	$(MAKE) -f CMakeFiles/newcoder.dir/build.make CMakeFiles/newcoder.dir/build
 .PHONY : newcoder/fast
 
-Netease_NiuniuFindJob.o: Netease_NiuniuFindJob.cpp.o
+Netease_ExactDivisionbyThree.o: Netease_ExactDivisionbyThree.cpp.o
 
-.PHONY : Netease_NiuniuFindJob.o
+.PHONY : Netease_ExactDivisionbyThree.o
 
 # target to build an object file
-Netease_NiuniuFindJob.cpp.o:
-	$(MAKE) -f CMakeFiles/newcoder.dir/build.make CMakeFiles/newcoder.dir/Netease_NiuniuFindJob.cpp.o
-.PHONY : Netease_NiuniuFindJob.cpp.o
+Netease_ExactDivisionbyThree.cpp.o:
+	$(MAKE) -f CMakeFiles/newcoder.dir/build.make CMakeFiles/newcoder.dir/Netease_ExactDivisionbyThree.cpp.o
+.PHONY : Netease_ExactDivisionbyThree.cpp.o
 
-Netease_NiuniuFindJob.i: Netease_NiuniuFindJob.cpp.i
+Netease_ExactDivisionbyThree.i: Netease_ExactDivisionbyThree.cpp.i
 
-.PHONY : Netease_NiuniuFindJob.i
+.PHONY : Netease_ExactDivisionbyThree.i
 
 # target to preprocess a source file
-Netease_NiuniuFindJob.cpp.i:
-	$(MAKE) -f CMakeFiles/newcoder.dir/build.make CMakeFiles/newcoder.dir/Netease_NiuniuFindJob.cpp.i
-.PHONY : Netease_NiuniuFindJob.cpp.i
+Netease_ExactDivisionbyThree.cpp.i:
+	$(MAKE) -f CMakeFiles/newcoder.dir/build.make CMakeFiles/newcoder.dir/Netease_ExactDivisionbyThree.cpp.i
+.PHONY : Netease_ExactDivisionbyThree.cpp.i
 
-Netease_NiuniuFindJob.s: Netease_NiuniuFindJob.cpp.s
+Netease_ExactDivisionbyThree.s: Netease_ExactDivisionbyThree.cpp.s
 
-.PHONY : Netease_NiuniuFindJob.s
+.PHONY : Netease_ExactDivisionbyThree.s
 
 # target to generate assembly for a file
-Netease_NiuniuFindJob.cpp.s:
-	$(MAKE) -f CMakeFiles/newcoder.dir/build.make CMakeFiles/newcoder.dir/Netease_NiuniuFindJob.cpp.s
-.PHONY : Netease_NiuniuFindJob.cpp.s
+Netease_ExactDivisionbyThree.cpp.s:
+	$(MAKE) -f CMakeFiles/newcoder.dir/build.make CMakeFiles/newcoder.dir/Netease_ExactDivisionbyThree.cpp.s
+.PHONY : Netease_ExactDivisionbyThree.cpp.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... newcoder"
-	@echo "... Netease_NiuniuFindJob.o"
-	@echo "... Netease_NiuniuFindJob.i"
-	@echo "... Netease_NiuniuFindJob.s"
+	@echo "... Netease_ExactDivisionbyThree.o"
+	@echo "... Netease_ExactDivisionbyThree.i"
+	@echo "... Netease_ExactDivisionbyThree.s"
 .PHONY : help
 
 

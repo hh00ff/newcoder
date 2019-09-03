@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/newcoder.dir/Netease_NiuniuFindJob.cpp.o"
+  "CMakeFiles/newcoder.dir/Netease_ExactDivisionbyThree.cpp.o"
   "newcoder.pdb"
   "newcoder"
 )
