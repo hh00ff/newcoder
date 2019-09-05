@@ -123,32 +123,32 @@ newcoder/fast:
 	$(MAKE) -f CMakeFiles/newcoder.dir/build.make CMakeFiles/newcoder.dir/build
 .PHONY : newcoder/fast
 
-Netease_NiuniusBackpack.o: Netease_NiuniusBackpack.cpp.o
+Netease_Sleep.o: Netease_Sleep.cpp.o
 
-.PHONY : Netease_NiuniusBackpack.o
+.PHONY : Netease_Sleep.o
 
 # target to build an object file
-Netease_NiuniusBackpack.cpp.o:
-	$(MAKE) -f CMakeFiles/newcoder.dir/build.make CMakeFiles/newcoder.dir/Netease_NiuniusBackpack.cpp.o
-.PHONY : Netease_NiuniusBackpack.cpp.o
+Netease_Sleep.cpp.o:
+	$(MAKE) -f CMakeFiles/newcoder.dir/build.make CMakeFiles/newcoder.dir/Netease_Sleep.cpp.o
+.PHONY : Netease_Sleep.cpp.o
 
-Netease_NiuniusBackpack.i: Netease_NiuniusBackpack.cpp.i
+Netease_Sleep.i: Netease_Sleep.cpp.i
 
-.PHONY : Netease_NiuniusBackpack.i
+.PHONY : Netease_Sleep.i
 
 # target to preprocess a source file
-Netease_NiuniusBackpack.cpp.i:
-	$(MAKE) -f CMakeFiles/newcoder.dir/build.make CMakeFiles/newcoder.dir/Netease_NiuniusBackpack.cpp.i
-.PHONY : Netease_NiuniusBackpack.cpp.i
+Netease_Sleep.cpp.i:
+	$(MAKE) -f CMakeFiles/newcoder.dir/build.make CMakeFiles/newcoder.dir/Netease_Sleep.cpp.i
+.PHONY : Netease_Sleep.cpp.i
 
-Netease_NiuniusBackpack.s: Netease_NiuniusBackpack.cpp.s
+Netease_Sleep.s: Netease_Sleep.cpp.s
 
-.PHONY : Netease_NiuniusBackpack.s
+.PHONY : Netease_Sleep.s
 
 # target to generate assembly for a file
-Netease_NiuniusBackpack.cpp.s:
-	$(MAKE) -f CMakeFiles/newcoder.dir/build.make CMakeFiles/newcoder.dir/Netease_NiuniusBackpack.cpp.s
-.PHONY : Netease_NiuniusBackpack.cpp.s
+Netease_Sleep.cpp.s:
+	$(MAKE) -f CMakeFiles/newcoder.dir/build.make CMakeFiles/newcoder.dir/Netease_Sleep.cpp.s
+.PHONY : Netease_Sleep.cpp.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... newcoder"
-	@echo "... Netease_NiuniusBackpack.o"
-	@echo "... Netease_NiuniusBackpack.i"
-	@echo "... Netease_NiuniusBackpack.s"
+	@echo "... Netease_Sleep.o"
+	@echo "... Netease_Sleep.i"
+	@echo "... Netease_Sleep.s"
 .PHONY : help
 
 
