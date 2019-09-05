@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/newcoder.dir/Netease_LostNiuniu.cpp.o"
+  "CMakeFiles/newcoder.dir/Netease_NiuniusBackpack.cpp.o"
   "newcoder.pdb"
   "newcoder"
 )

@@ -123,32 +123,32 @@ newcoder/fast:
 	$(MAKE) -f CMakeFiles/newcoder.dir/build.make CMakeFiles/newcoder.dir/build
 .PHONY : newcoder/fast
 
-Netease_LostNiuniu.o: Netease_LostNiuniu.cpp.o
+Netease_NiuniusBackpack.o: Netease_NiuniusBackpack.cpp.o
 
-.PHONY : Netease_LostNiuniu.o
+.PHONY : Netease_NiuniusBackpack.o
 
 # target to build an object file
-Netease_LostNiuniu.cpp.o:
-	$(MAKE) -f CMakeFiles/newcoder.dir/build.make CMakeFiles/newcoder.dir/Netease_LostNiuniu.cpp.o
-.PHONY : Netease_LostNiuniu.cpp.o
+Netease_NiuniusBackpack.cpp.o:
+	$(MAKE) -f CMakeFiles/newcoder.dir/build.make CMakeFiles/newcoder.dir/Netease_NiuniusBackpack.cpp.o
+.PHONY : Netease_NiuniusBackpack.cpp.o
 
-Netease_LostNiuniu.i: Netease_LostNiuniu.cpp.i
+Netease_NiuniusBackpack.i: Netease_NiuniusBackpack.cpp.i
 
-.PHONY : Netease_LostNiuniu.i
+.PHONY : Netease_NiuniusBackpack.i
 
 # target to preprocess a source file
-Netease_LostNiuniu.cpp.i:
-	$(MAKE) -f CMakeFiles/newcoder.dir/build.make CMakeFiles/newcoder.dir/Netease_LostNiuniu.cpp.i
-.PHONY : Netease_LostNiuniu.cpp.i
+Netease_NiuniusBackpack.cpp.i:
+	$(MAKE) -f CMakeFiles/newcoder.dir/build.make CMakeFiles/newcoder.dir/Netease_NiuniusBackpack.cpp.i
+.PHONY : Netease_NiuniusBackpack.cpp.i
 
-Netease_LostNiuniu.s: Netease_LostNiuniu.cpp.s
+Netease_NiuniusBackpack.s: Netease_NiuniusBackpack.cpp.s
 
-.PHONY : Netease_LostNiuniu.s
+.PHONY : Netease_NiuniusBackpack.s
 
 # target to generate assembly for a file
-Netease_LostNiuniu.cpp.s:
-	$(MAKE) -f CMakeFiles/newcoder.dir/build.make CMakeFiles/newcoder.dir/Netease_LostNiuniu.cpp.s
-.PHONY : Netease_LostNiuniu.cpp.s
+Netease_NiuniusBackpack.cpp.s:
+	$(MAKE) -f CMakeFiles/newcoder.dir/build.make CMakeFiles/newcoder.dir/Netease_NiuniusBackpack.cpp.s
+.PHONY : Netease_NiuniusBackpack.cpp.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... newcoder"
-	@echo "... Netease_LostNiuniu.o"
-	@echo "... Netease_LostNiuniu.i"
-	@echo "... Netease_LostNiuniu.s"
+	@echo "... Netease_NiuniusBackpack.o"
+	@echo "... Netease_NiuniusBackpack.i"
+	@echo "... Netease_NiuniusBackpack.s"
 .PHONY : help
 
 

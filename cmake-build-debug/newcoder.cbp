@@ -84,7 +84,7 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/home/hfq/clion_ws/newcoder/Netease_LostNiuniu.cpp">
+		<Unit filename="/home/hfq/clion_ws/newcoder/Netease_NiuniusBackpack.cpp">
 			<Option target="newcoder"/>
 		</Unit>
 		<Unit filename="/home/hfq/clion_ws/newcoder/CMakeLists.txt">
