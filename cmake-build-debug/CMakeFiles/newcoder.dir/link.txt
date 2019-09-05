@@ -1,1 +1,1 @@
-/usr/bin/c++  -g   CMakeFiles/newcoder.dir/Netease_BumperHarvest.cpp.o  -o newcoder 
+/usr/bin/c++  -g   CMakeFiles/newcoder.dir/Netease_TidytheRoom.cpp.o  -o newcoder 

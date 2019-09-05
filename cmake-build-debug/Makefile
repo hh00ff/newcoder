@@ -123,32 +123,32 @@ newcoder/fast:
 	$(MAKE) -f CMakeFiles/newcoder.dir/build.make CMakeFiles/newcoder.dir/build
 .PHONY : newcoder/fast
 
-Netease_BumperHarvest.o: Netease_BumperHarvest.cpp.o
+Netease_TidytheRoom.o: Netease_TidytheRoom.cpp.o
 
-.PHONY : Netease_BumperHarvest.o
+.PHONY : Netease_TidytheRoom.o
 
 # target to build an object file
-Netease_BumperHarvest.cpp.o:
-	$(MAKE) -f CMakeFiles/newcoder.dir/build.make CMakeFiles/newcoder.dir/Netease_BumperHarvest.cpp.o
-.PHONY : Netease_BumperHarvest.cpp.o
+Netease_TidytheRoom.cpp.o:
+	$(MAKE) -f CMakeFiles/newcoder.dir/build.make CMakeFiles/newcoder.dir/Netease_TidytheRoom.cpp.o
+.PHONY : Netease_TidytheRoom.cpp.o
 
-Netease_BumperHarvest.i: Netease_BumperHarvest.cpp.i
+Netease_TidytheRoom.i: Netease_TidytheRoom.cpp.i
 
-.PHONY : Netease_BumperHarvest.i
+.PHONY : Netease_TidytheRoom.i
 
 # target to preprocess a source file
-Netease_BumperHarvest.cpp.i:
-	$(MAKE) -f CMakeFiles/newcoder.dir/build.make CMakeFiles/newcoder.dir/Netease_BumperHarvest.cpp.i
-.PHONY : Netease_BumperHarvest.cpp.i
+Netease_TidytheRoom.cpp.i:
+	$(MAKE) -f CMakeFiles/newcoder.dir/build.make CMakeFiles/newcoder.dir/Netease_TidytheRoom.cpp.i
+.PHONY : Netease_TidytheRoom.cpp.i
 
-Netease_BumperHarvest.s: Netease_BumperHarvest.cpp.s
+Netease_TidytheRoom.s: Netease_TidytheRoom.cpp.s
 
-.PHONY : Netease_BumperHarvest.s
+.PHONY : Netease_TidytheRoom.s
 
 # target to generate assembly for a file
-Netease_BumperHarvest.cpp.s:
-	$(MAKE) -f CMakeFiles/newcoder.dir/build.make CMakeFiles/newcoder.dir/Netease_BumperHarvest.cpp.s
-.PHONY : Netease_BumperHarvest.cpp.s
+Netease_TidytheRoom.cpp.s:
+	$(MAKE) -f CMakeFiles/newcoder.dir/build.make CMakeFiles/newcoder.dir/Netease_TidytheRoom.cpp.s
+.PHONY : Netease_TidytheRoom.cpp.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... newcoder"
-	@echo "... Netease_BumperHarvest.o"
-	@echo "... Netease_BumperHarvest.i"
-	@echo "... Netease_BumperHarvest.s"
+	@echo "... Netease_TidytheRoom.o"
+	@echo "... Netease_TidytheRoom.i"
+	@echo "... Netease_TidytheRoom.s"
 .PHONY : help
 
 

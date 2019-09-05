@@ -6,11 +6,13 @@
 
 #IncludeRegexTransform: 
 
-/home/hfq/clion_ws/newcoder/Netease_BumperHarvest.cpp
+/home/hfq/clion_ws/newcoder/Netease_TidytheRoom.cpp
 iostream
 -
 vector
 -
 algorithm
+-
+cmath
 -
 

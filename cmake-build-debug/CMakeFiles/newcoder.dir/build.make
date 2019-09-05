@@ -57,27 +57,27 @@ include CMakeFiles/newcoder.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/newcoder.dir/flags.make
 
-CMakeFiles/newcoder.dir/Netease_BumperHarvest.cpp.o: CMakeFiles/newcoder.dir/flags.make
-CMakeFiles/newcoder.dir/Netease_BumperHarvest.cpp.o: ../Netease_BumperHarvest.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/hfq/clion_ws/newcoder/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/newcoder.dir/Netease_BumperHarvest.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/newcoder.dir/Netease_BumperHarvest.cpp.o -c /home/hfq/clion_ws/newcoder/Netease_BumperHarvest.cpp
+CMakeFiles/newcoder.dir/Netease_TidytheRoom.cpp.o: CMakeFiles/newcoder.dir/flags.make
+CMakeFiles/newcoder.dir/Netease_TidytheRoom.cpp.o: ../Netease_TidytheRoom.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/hfq/clion_ws/newcoder/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/newcoder.dir/Netease_TidytheRoom.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/newcoder.dir/Netease_TidytheRoom.cpp.o -c /home/hfq/clion_ws/newcoder/Netease_TidytheRoom.cpp
 
-CMakeFiles/newcoder.dir/Netease_BumperHarvest.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/newcoder.dir/Netease_BumperHarvest.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/hfq/clion_ws/newcoder/Netease_BumperHarvest.cpp > CMakeFiles/newcoder.dir/Netease_BumperHarvest.cpp.i
+CMakeFiles/newcoder.dir/Netease_TidytheRoom.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/newcoder.dir/Netease_TidytheRoom.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/hfq/clion_ws/newcoder/Netease_TidytheRoom.cpp > CMakeFiles/newcoder.dir/Netease_TidytheRoom.cpp.i
 
-CMakeFiles/newcoder.dir/Netease_BumperHarvest.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/newcoder.dir/Netease_BumperHarvest.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/hfq/clion_ws/newcoder/Netease_BumperHarvest.cpp -o CMakeFiles/newcoder.dir/Netease_BumperHarvest.cpp.s
+CMakeFiles/newcoder.dir/Netease_TidytheRoom.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/newcoder.dir/Netease_TidytheRoom.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/hfq/clion_ws/newcoder/Netease_TidytheRoom.cpp -o CMakeFiles/newcoder.dir/Netease_TidytheRoom.cpp.s
 
 # Object files for target newcoder
 newcoder_OBJECTS = \
-"CMakeFiles/newcoder.dir/Netease_BumperHarvest.cpp.o"
+"CMakeFiles/newcoder.dir/Netease_TidytheRoom.cpp.o"
 
 # External object files for target newcoder
 newcoder_EXTERNAL_OBJECTS =
 
-newcoder: CMakeFiles/newcoder.dir/Netease_BumperHarvest.cpp.o
+newcoder: CMakeFiles/newcoder.dir/Netease_TidytheRoom.cpp.o
 newcoder: CMakeFiles/newcoder.dir/build.make
 newcoder: CMakeFiles/newcoder.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/hfq/clion_ws/newcoder/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable newcoder"
