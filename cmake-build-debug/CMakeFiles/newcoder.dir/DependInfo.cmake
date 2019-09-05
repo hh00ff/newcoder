@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/hfq/clion_ws/newcoder/Netease_Sleep.cpp" "/home/hfq/clion_ws/newcoder/cmake-build-debug/CMakeFiles/newcoder.dir/Netease_Sleep.cpp.o"
+  "/home/hfq/clion_ws/newcoder/Netease_BumperHarvest.cpp" "/home/hfq/clion_ws/newcoder/cmake-build-debug/CMakeFiles/newcoder.dir/Netease_BumperHarvest.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

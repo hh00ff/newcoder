@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/newcoder.dir/Netease_Sleep.cpp.o"
+  "CMakeFiles/newcoder.dir/Netease_BumperHarvest.cpp.o"
   "newcoder.pdb"
   "newcoder"
 )

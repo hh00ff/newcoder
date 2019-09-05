@@ -123,32 +123,32 @@ newcoder/fast:
 	$(MAKE) -f CMakeFiles/newcoder.dir/build.make CMakeFiles/newcoder.dir/build
 .PHONY : newcoder/fast
 
-Netease_Sleep.o: Netease_Sleep.cpp.o
+Netease_BumperHarvest.o: Netease_BumperHarvest.cpp.o
 
-.PHONY : Netease_Sleep.o
+.PHONY : Netease_BumperHarvest.o
 
 # target to build an object file
-Netease_Sleep.cpp.o:
-	$(MAKE) -f CMakeFiles/newcoder.dir/build.make CMakeFiles/newcoder.dir/Netease_Sleep.cpp.o
-.PHONY : Netease_Sleep.cpp.o
+Netease_BumperHarvest.cpp.o:
+	$(MAKE) -f CMakeFiles/newcoder.dir/build.make CMakeFiles/newcoder.dir/Netease_BumperHarvest.cpp.o
+.PHONY : Netease_BumperHarvest.cpp.o
 
-Netease_Sleep.i: Netease_Sleep.cpp.i
+Netease_BumperHarvest.i: Netease_BumperHarvest.cpp.i
 
-.PHONY : Netease_Sleep.i
+.PHONY : Netease_BumperHarvest.i
 
 # target to preprocess a source file
-Netease_Sleep.cpp.i:
-	$(MAKE) -f CMakeFiles/newcoder.dir/build.make CMakeFiles/newcoder.dir/Netease_Sleep.cpp.i
-.PHONY : Netease_Sleep.cpp.i
+Netease_BumperHarvest.cpp.i:
+	$(MAKE) -f CMakeFiles/newcoder.dir/build.make CMakeFiles/newcoder.dir/Netease_BumperHarvest.cpp.i
+.PHONY : Netease_BumperHarvest.cpp.i
 
-Netease_Sleep.s: Netease_Sleep.cpp.s
+Netease_BumperHarvest.s: Netease_BumperHarvest.cpp.s
 
-.PHONY : Netease_Sleep.s
+.PHONY : Netease_BumperHarvest.s
 
 # target to generate assembly for a file
-Netease_Sleep.cpp.s:
-	$(MAKE) -f CMakeFiles/newcoder.dir/build.make CMakeFiles/newcoder.dir/Netease_Sleep.cpp.s
-.PHONY : Netease_Sleep.cpp.s
+Netease_BumperHarvest.cpp.s:
+	$(MAKE) -f CMakeFiles/newcoder.dir/build.make CMakeFiles/newcoder.dir/Netease_BumperHarvest.cpp.s
+.PHONY : Netease_BumperHarvest.cpp.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... newcoder"
-	@echo "... Netease_Sleep.o"
-	@echo "... Netease_Sleep.i"
-	@echo "... Netease_Sleep.s"
+	@echo "... Netease_BumperHarvest.o"
+	@echo "... Netease_BumperHarvest.i"
+	@echo "... Netease_BumperHarvest.s"
 .PHONY : help
 
 

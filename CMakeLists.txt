@@ -3,4 +3,4 @@ project(newcoder)
 
 set(CMAKE_CXX_STANDARD 11)
 
-add_executable(newcoder Netease_Sleep.cpp)
+add_executable(newcoder Netease_BumperHarvest.cpp)
