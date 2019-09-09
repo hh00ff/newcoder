@@ -123,32 +123,32 @@ newcoder/fast:
 	$(MAKE) -f CMakeFiles/newcoder.dir/build.make CMakeFiles/newcoder.dir/build
 .PHONY : newcoder/fast
 
-Netease_TidytheRoom.o: Netease_TidytheRoom.cpp.o
+Netease_Tower.o: Netease_Tower.cpp.o
 
-.PHONY : Netease_TidytheRoom.o
+.PHONY : Netease_Tower.o
 
 # target to build an object file
-Netease_TidytheRoom.cpp.o:
-	$(MAKE) -f CMakeFiles/newcoder.dir/build.make CMakeFiles/newcoder.dir/Netease_TidytheRoom.cpp.o
-.PHONY : Netease_TidytheRoom.cpp.o
+Netease_Tower.cpp.o:
+	$(MAKE) -f CMakeFiles/newcoder.dir/build.make CMakeFiles/newcoder.dir/Netease_Tower.cpp.o
+.PHONY : Netease_Tower.cpp.o
 
-Netease_TidytheRoom.i: Netease_TidytheRoom.cpp.i
+Netease_Tower.i: Netease_Tower.cpp.i
 
-.PHONY : Netease_TidytheRoom.i
+.PHONY : Netease_Tower.i
 
 # target to preprocess a source file
-Netease_TidytheRoom.cpp.i:
-	$(MAKE) -f CMakeFiles/newcoder.dir/build.make CMakeFiles/newcoder.dir/Netease_TidytheRoom.cpp.i
-.PHONY : Netease_TidytheRoom.cpp.i
+Netease_Tower.cpp.i:
+	$(MAKE) -f CMakeFiles/newcoder.dir/build.make CMakeFiles/newcoder.dir/Netease_Tower.cpp.i
+.PHONY : Netease_Tower.cpp.i
 
-Netease_TidytheRoom.s: Netease_TidytheRoom.cpp.s
+Netease_Tower.s: Netease_Tower.cpp.s
 
-.PHONY : Netease_TidytheRoom.s
+.PHONY : Netease_Tower.s
 
 # target to generate assembly for a file
-Netease_TidytheRoom.cpp.s:
-	$(MAKE) -f CMakeFiles/newcoder.dir/build.make CMakeFiles/newcoder.dir/Netease_TidytheRoom.cpp.s
-.PHONY : Netease_TidytheRoom.cpp.s
+Netease_Tower.cpp.s:
+	$(MAKE) -f CMakeFiles/newcoder.dir/build.make CMakeFiles/newcoder.dir/Netease_Tower.cpp.s
+.PHONY : Netease_Tower.cpp.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... newcoder"
-	@echo "... Netease_TidytheRoom.o"
-	@echo "... Netease_TidytheRoom.i"
-	@echo "... Netease_TidytheRoom.s"
+	@echo "... Netease_Tower.o"
+	@echo "... Netease_Tower.i"
+	@echo "... Netease_Tower.s"
 .PHONY : help
 
 

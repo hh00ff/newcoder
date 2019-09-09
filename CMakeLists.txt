@@ -3,4 +3,4 @@ project(newcoder)
 
 set(CMAKE_CXX_STANDARD 11)
 
-add_executable(newcoder Netease_TidytheRoom.cpp)
+add_executable(newcoder Netease_Tower.cpp)
