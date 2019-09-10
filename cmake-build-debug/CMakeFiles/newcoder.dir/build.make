@@ -57,27 +57,27 @@ include CMakeFiles/newcoder.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/newcoder.dir/flags.make
 
-CMakeFiles/newcoder.dir/Netease_Tower.cpp.o: CMakeFiles/newcoder.dir/flags.make
-CMakeFiles/newcoder.dir/Netease_Tower.cpp.o: ../Netease_Tower.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/hfq/clion_ws/newcoder/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/newcoder.dir/Netease_Tower.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/newcoder.dir/Netease_Tower.cpp.o -c /home/hfq/clion_ws/newcoder/Netease_Tower.cpp
+CMakeFiles/newcoder.dir/Meituan_LongestAll1Subarray.cpp.o: CMakeFiles/newcoder.dir/flags.make
+CMakeFiles/newcoder.dir/Meituan_LongestAll1Subarray.cpp.o: ../Meituan_LongestAll1Subarray.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/hfq/clion_ws/newcoder/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/newcoder.dir/Meituan_LongestAll1Subarray.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/newcoder.dir/Meituan_LongestAll1Subarray.cpp.o -c /home/hfq/clion_ws/newcoder/Meituan_LongestAll1Subarray.cpp
 
-CMakeFiles/newcoder.dir/Netease_Tower.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/newcoder.dir/Netease_Tower.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/hfq/clion_ws/newcoder/Netease_Tower.cpp > CMakeFiles/newcoder.dir/Netease_Tower.cpp.i
+CMakeFiles/newcoder.dir/Meituan_LongestAll1Subarray.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/newcoder.dir/Meituan_LongestAll1Subarray.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/hfq/clion_ws/newcoder/Meituan_LongestAll1Subarray.cpp > CMakeFiles/newcoder.dir/Meituan_LongestAll1Subarray.cpp.i
 
-CMakeFiles/newcoder.dir/Netease_Tower.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/newcoder.dir/Netease_Tower.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/hfq/clion_ws/newcoder/Netease_Tower.cpp -o CMakeFiles/newcoder.dir/Netease_Tower.cpp.s
+CMakeFiles/newcoder.dir/Meituan_LongestAll1Subarray.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/newcoder.dir/Meituan_LongestAll1Subarray.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/hfq/clion_ws/newcoder/Meituan_LongestAll1Subarray.cpp -o CMakeFiles/newcoder.dir/Meituan_LongestAll1Subarray.cpp.s
 
 # Object files for target newcoder
 newcoder_OBJECTS = \
-"CMakeFiles/newcoder.dir/Netease_Tower.cpp.o"
+"CMakeFiles/newcoder.dir/Meituan_LongestAll1Subarray.cpp.o"
 
 # External object files for target newcoder
 newcoder_EXTERNAL_OBJECTS =
 
-newcoder: CMakeFiles/newcoder.dir/Netease_Tower.cpp.o
+newcoder: CMakeFiles/newcoder.dir/Meituan_LongestAll1Subarray.cpp.o
 newcoder: CMakeFiles/newcoder.dir/build.make
 newcoder: CMakeFiles/newcoder.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/hfq/clion_ws/newcoder/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable newcoder"

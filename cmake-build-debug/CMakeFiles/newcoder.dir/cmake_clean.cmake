@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/newcoder.dir/Netease_Tower.cpp.o"
+  "CMakeFiles/newcoder.dir/Meituan_LongestAll1Subarray.cpp.o"
   "newcoder.pdb"
   "newcoder"
 )

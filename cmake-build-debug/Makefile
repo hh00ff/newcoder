@@ -123,32 +123,32 @@ newcoder/fast:
 	$(MAKE) -f CMakeFiles/newcoder.dir/build.make CMakeFiles/newcoder.dir/build
 .PHONY : newcoder/fast
 
-Netease_Tower.o: Netease_Tower.cpp.o
+Meituan_LongestAll1Subarray.o: Meituan_LongestAll1Subarray.cpp.o
 
-.PHONY : Netease_Tower.o
+.PHONY : Meituan_LongestAll1Subarray.o
 
 # target to build an object file
-Netease_Tower.cpp.o:
-	$(MAKE) -f CMakeFiles/newcoder.dir/build.make CMakeFiles/newcoder.dir/Netease_Tower.cpp.o
-.PHONY : Netease_Tower.cpp.o
+Meituan_LongestAll1Subarray.cpp.o:
+	$(MAKE) -f CMakeFiles/newcoder.dir/build.make CMakeFiles/newcoder.dir/Meituan_LongestAll1Subarray.cpp.o
+.PHONY : Meituan_LongestAll1Subarray.cpp.o
 
-Netease_Tower.i: Netease_Tower.cpp.i
+Meituan_LongestAll1Subarray.i: Meituan_LongestAll1Subarray.cpp.i
 
-.PHONY : Netease_Tower.i
+.PHONY : Meituan_LongestAll1Subarray.i
 
 # target to preprocess a source file
-Netease_Tower.cpp.i:
-	$(MAKE) -f CMakeFiles/newcoder.dir/build.make CMakeFiles/newcoder.dir/Netease_Tower.cpp.i
-.PHONY : Netease_Tower.cpp.i
+Meituan_LongestAll1Subarray.cpp.i:
+	$(MAKE) -f CMakeFiles/newcoder.dir/build.make CMakeFiles/newcoder.dir/Meituan_LongestAll1Subarray.cpp.i
+.PHONY : Meituan_LongestAll1Subarray.cpp.i
 
-Netease_Tower.s: Netease_Tower.cpp.s
+Meituan_LongestAll1Subarray.s: Meituan_LongestAll1Subarray.cpp.s
 
-.PHONY : Netease_Tower.s
+.PHONY : Meituan_LongestAll1Subarray.s
 
 # target to generate assembly for a file
-Netease_Tower.cpp.s:
-	$(MAKE) -f CMakeFiles/newcoder.dir/build.make CMakeFiles/newcoder.dir/Netease_Tower.cpp.s
-.PHONY : Netease_Tower.cpp.s
+Meituan_LongestAll1Subarray.cpp.s:
+	$(MAKE) -f CMakeFiles/newcoder.dir/build.make CMakeFiles/newcoder.dir/Meituan_LongestAll1Subarray.cpp.s
+.PHONY : Meituan_LongestAll1Subarray.cpp.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... newcoder"
-	@echo "... Netease_Tower.o"
-	@echo "... Netease_Tower.i"
-	@echo "... Netease_Tower.s"
+	@echo "... Meituan_LongestAll1Subarray.o"
+	@echo "... Meituan_LongestAll1Subarray.i"
+	@echo "... Meituan_LongestAll1Subarray.s"
 .PHONY : help
 
 
