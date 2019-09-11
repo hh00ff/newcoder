@@ -123,32 +123,32 @@ newcoder/fast:
 	$(MAKE) -f CMakeFiles/newcoder.dir/build.make CMakeFiles/newcoder.dir/build
 .PHONY : newcoder/fast
 
-Meituan_LongestAll1Subarray.o: Meituan_LongestAll1Subarray.cpp.o
+Meituan_TakeoutDiscount.o: Meituan_TakeoutDiscount.cpp.o
 
-.PHONY : Meituan_LongestAll1Subarray.o
+.PHONY : Meituan_TakeoutDiscount.o
 
 # target to build an object file
-Meituan_LongestAll1Subarray.cpp.o:
-	$(MAKE) -f CMakeFiles/newcoder.dir/build.make CMakeFiles/newcoder.dir/Meituan_LongestAll1Subarray.cpp.o
-.PHONY : Meituan_LongestAll1Subarray.cpp.o
+Meituan_TakeoutDiscount.cpp.o:
+	$(MAKE) -f CMakeFiles/newcoder.dir/build.make CMakeFiles/newcoder.dir/Meituan_TakeoutDiscount.cpp.o
+.PHONY : Meituan_TakeoutDiscount.cpp.o
 
-Meituan_LongestAll1Subarray.i: Meituan_LongestAll1Subarray.cpp.i
+Meituan_TakeoutDiscount.i: Meituan_TakeoutDiscount.cpp.i
 
-.PHONY : Meituan_LongestAll1Subarray.i
+.PHONY : Meituan_TakeoutDiscount.i
 
 # target to preprocess a source file
-Meituan_LongestAll1Subarray.cpp.i:
-	$(MAKE) -f CMakeFiles/newcoder.dir/build.make CMakeFiles/newcoder.dir/Meituan_LongestAll1Subarray.cpp.i
-.PHONY : Meituan_LongestAll1Subarray.cpp.i
+Meituan_TakeoutDiscount.cpp.i:
+	$(MAKE) -f CMakeFiles/newcoder.dir/build.make CMakeFiles/newcoder.dir/Meituan_TakeoutDiscount.cpp.i
+.PHONY : Meituan_TakeoutDiscount.cpp.i
 
-Meituan_LongestAll1Subarray.s: Meituan_LongestAll1Subarray.cpp.s
+Meituan_TakeoutDiscount.s: Meituan_TakeoutDiscount.cpp.s
 
-.PHONY : Meituan_LongestAll1Subarray.s
+.PHONY : Meituan_TakeoutDiscount.s
 
 # target to generate assembly for a file
-Meituan_LongestAll1Subarray.cpp.s:
-	$(MAKE) -f CMakeFiles/newcoder.dir/build.make CMakeFiles/newcoder.dir/Meituan_LongestAll1Subarray.cpp.s
-.PHONY : Meituan_LongestAll1Subarray.cpp.s
+Meituan_TakeoutDiscount.cpp.s:
+	$(MAKE) -f CMakeFiles/newcoder.dir/build.make CMakeFiles/newcoder.dir/Meituan_TakeoutDiscount.cpp.s
+.PHONY : Meituan_TakeoutDiscount.cpp.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... newcoder"
-	@echo "... Meituan_LongestAll1Subarray.o"
-	@echo "... Meituan_LongestAll1Subarray.i"
-	@echo "... Meituan_LongestAll1Subarray.s"
+	@echo "... Meituan_TakeoutDiscount.o"
+	@echo "... Meituan_TakeoutDiscount.i"
+	@echo "... Meituan_TakeoutDiscount.s"
 .PHONY : help
 
 
