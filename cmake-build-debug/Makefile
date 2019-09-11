@@ -123,32 +123,32 @@ newcoder/fast:
 	$(MAKE) -f CMakeFiles/newcoder.dir/build.make CMakeFiles/newcoder.dir/build
 .PHONY : newcoder/fast
 
-Meituan_TakeoutDiscount.o: Meituan_TakeoutDiscount.cpp.o
+Meituan_GrowFlower.o: Meituan_GrowFlower.cpp.o
 
-.PHONY : Meituan_TakeoutDiscount.o
+.PHONY : Meituan_GrowFlower.o
 
 # target to build an object file
-Meituan_TakeoutDiscount.cpp.o:
-	$(MAKE) -f CMakeFiles/newcoder.dir/build.make CMakeFiles/newcoder.dir/Meituan_TakeoutDiscount.cpp.o
-.PHONY : Meituan_TakeoutDiscount.cpp.o
+Meituan_GrowFlower.cpp.o:
+	$(MAKE) -f CMakeFiles/newcoder.dir/build.make CMakeFiles/newcoder.dir/Meituan_GrowFlower.cpp.o
+.PHONY : Meituan_GrowFlower.cpp.o
 
-Meituan_TakeoutDiscount.i: Meituan_TakeoutDiscount.cpp.i
+Meituan_GrowFlower.i: Meituan_GrowFlower.cpp.i
 
-.PHONY : Meituan_TakeoutDiscount.i
+.PHONY : Meituan_GrowFlower.i
 
 # target to preprocess a source file
-Meituan_TakeoutDiscount.cpp.i:
-	$(MAKE) -f CMakeFiles/newcoder.dir/build.make CMakeFiles/newcoder.dir/Meituan_TakeoutDiscount.cpp.i
-.PHONY : Meituan_TakeoutDiscount.cpp.i
+Meituan_GrowFlower.cpp.i:
+	$(MAKE) -f CMakeFiles/newcoder.dir/build.make CMakeFiles/newcoder.dir/Meituan_GrowFlower.cpp.i
+.PHONY : Meituan_GrowFlower.cpp.i
 
-Meituan_TakeoutDiscount.s: Meituan_TakeoutDiscount.cpp.s
+Meituan_GrowFlower.s: Meituan_GrowFlower.cpp.s
 
-.PHONY : Meituan_TakeoutDiscount.s
+.PHONY : Meituan_GrowFlower.s
 
 # target to generate assembly for a file
-Meituan_TakeoutDiscount.cpp.s:
-	$(MAKE) -f CMakeFiles/newcoder.dir/build.make CMakeFiles/newcoder.dir/Meituan_TakeoutDiscount.cpp.s
-.PHONY : Meituan_TakeoutDiscount.cpp.s
+Meituan_GrowFlower.cpp.s:
+	$(MAKE) -f CMakeFiles/newcoder.dir/build.make CMakeFiles/newcoder.dir/Meituan_GrowFlower.cpp.s
+.PHONY : Meituan_GrowFlower.cpp.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... newcoder"
-	@echo "... Meituan_TakeoutDiscount.o"
-	@echo "... Meituan_TakeoutDiscount.i"
-	@echo "... Meituan_TakeoutDiscount.s"
+	@echo "... Meituan_GrowFlower.o"
+	@echo "... Meituan_GrowFlower.i"
+	@echo "... Meituan_GrowFlower.s"
 .PHONY : help
 
 
