@@ -57,27 +57,27 @@ include CMakeFiles/newcoder.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/newcoder.dir/flags.make
 
-CMakeFiles/newcoder.dir/Meituan_GrowFlower.cpp.o: CMakeFiles/newcoder.dir/flags.make
-CMakeFiles/newcoder.dir/Meituan_GrowFlower.cpp.o: ../Meituan_GrowFlower.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/hfq/clion_ws/newcoder/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/newcoder.dir/Meituan_GrowFlower.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/newcoder.dir/Meituan_GrowFlower.cpp.o -c /home/hfq/clion_ws/newcoder/Meituan_GrowFlower.cpp
+CMakeFiles/newcoder.dir/Baidu_SheMen.cpp.o: CMakeFiles/newcoder.dir/flags.make
+CMakeFiles/newcoder.dir/Baidu_SheMen.cpp.o: ../Baidu_SheMen.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/hfq/clion_ws/newcoder/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/newcoder.dir/Baidu_SheMen.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/newcoder.dir/Baidu_SheMen.cpp.o -c /home/hfq/clion_ws/newcoder/Baidu_SheMen.cpp
 
-CMakeFiles/newcoder.dir/Meituan_GrowFlower.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/newcoder.dir/Meituan_GrowFlower.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/hfq/clion_ws/newcoder/Meituan_GrowFlower.cpp > CMakeFiles/newcoder.dir/Meituan_GrowFlower.cpp.i
+CMakeFiles/newcoder.dir/Baidu_SheMen.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/newcoder.dir/Baidu_SheMen.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/hfq/clion_ws/newcoder/Baidu_SheMen.cpp > CMakeFiles/newcoder.dir/Baidu_SheMen.cpp.i
 
-CMakeFiles/newcoder.dir/Meituan_GrowFlower.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/newcoder.dir/Meituan_GrowFlower.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/hfq/clion_ws/newcoder/Meituan_GrowFlower.cpp -o CMakeFiles/newcoder.dir/Meituan_GrowFlower.cpp.s
+CMakeFiles/newcoder.dir/Baidu_SheMen.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/newcoder.dir/Baidu_SheMen.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/hfq/clion_ws/newcoder/Baidu_SheMen.cpp -o CMakeFiles/newcoder.dir/Baidu_SheMen.cpp.s
 
 # Object files for target newcoder
 newcoder_OBJECTS = \
-"CMakeFiles/newcoder.dir/Meituan_GrowFlower.cpp.o"
+"CMakeFiles/newcoder.dir/Baidu_SheMen.cpp.o"
 
 # External object files for target newcoder
 newcoder_EXTERNAL_OBJECTS =
 
-newcoder: CMakeFiles/newcoder.dir/Meituan_GrowFlower.cpp.o
+newcoder: CMakeFiles/newcoder.dir/Baidu_SheMen.cpp.o
 newcoder: CMakeFiles/newcoder.dir/build.make
 newcoder: CMakeFiles/newcoder.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/hfq/clion_ws/newcoder/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable newcoder"

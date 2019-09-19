@@ -123,32 +123,32 @@ newcoder/fast:
 	$(MAKE) -f CMakeFiles/newcoder.dir/build.make CMakeFiles/newcoder.dir/build
 .PHONY : newcoder/fast
 
-Meituan_GrowFlower.o: Meituan_GrowFlower.cpp.o
+Baidu_SheMen.o: Baidu_SheMen.cpp.o
 
-.PHONY : Meituan_GrowFlower.o
+.PHONY : Baidu_SheMen.o
 
 # target to build an object file
-Meituan_GrowFlower.cpp.o:
-	$(MAKE) -f CMakeFiles/newcoder.dir/build.make CMakeFiles/newcoder.dir/Meituan_GrowFlower.cpp.o
-.PHONY : Meituan_GrowFlower.cpp.o
+Baidu_SheMen.cpp.o:
+	$(MAKE) -f CMakeFiles/newcoder.dir/build.make CMakeFiles/newcoder.dir/Baidu_SheMen.cpp.o
+.PHONY : Baidu_SheMen.cpp.o
 
-Meituan_GrowFlower.i: Meituan_GrowFlower.cpp.i
+Baidu_SheMen.i: Baidu_SheMen.cpp.i
 
-.PHONY : Meituan_GrowFlower.i
+.PHONY : Baidu_SheMen.i
 
 # target to preprocess a source file
-Meituan_GrowFlower.cpp.i:
-	$(MAKE) -f CMakeFiles/newcoder.dir/build.make CMakeFiles/newcoder.dir/Meituan_GrowFlower.cpp.i
-.PHONY : Meituan_GrowFlower.cpp.i
+Baidu_SheMen.cpp.i:
+	$(MAKE) -f CMakeFiles/newcoder.dir/build.make CMakeFiles/newcoder.dir/Baidu_SheMen.cpp.i
+.PHONY : Baidu_SheMen.cpp.i
 
-Meituan_GrowFlower.s: Meituan_GrowFlower.cpp.s
+Baidu_SheMen.s: Baidu_SheMen.cpp.s
 
-.PHONY : Meituan_GrowFlower.s
+.PHONY : Baidu_SheMen.s
 
 # target to generate assembly for a file
-Meituan_GrowFlower.cpp.s:
-	$(MAKE) -f CMakeFiles/newcoder.dir/build.make CMakeFiles/newcoder.dir/Meituan_GrowFlower.cpp.s
-.PHONY : Meituan_GrowFlower.cpp.s
+Baidu_SheMen.cpp.s:
+	$(MAKE) -f CMakeFiles/newcoder.dir/build.make CMakeFiles/newcoder.dir/Baidu_SheMen.cpp.s
+.PHONY : Baidu_SheMen.cpp.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... newcoder"
-	@echo "... Meituan_GrowFlower.o"
-	@echo "... Meituan_GrowFlower.i"
-	@echo "... Meituan_GrowFlower.s"
+	@echo "... Baidu_SheMen.o"
+	@echo "... Baidu_SheMen.i"
+	@echo "... Baidu_SheMen.s"
 .PHONY : help
 
 

@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/newcoder.dir/Meituan_GrowFlower.cpp.o"
+  "CMakeFiles/newcoder.dir/Baidu_SheMen.cpp.o"
   "newcoder.pdb"
   "newcoder"
 )

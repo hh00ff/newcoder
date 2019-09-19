@@ -3,4 +3,4 @@ project(newcoder)
 
 set(CMAKE_CXX_STANDARD 11)
 
-add_executable(newcoder Meituan_GrowFlower.cpp)
+add_executable(newcoder Baidu_SheMen.cpp)
